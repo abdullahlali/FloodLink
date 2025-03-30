@@ -1,8 +1,9 @@
 # KW FloodLink
 
-![FloodLink Diagram](assets/images/screenshot.png)
-
 KW FloodLink is a comprehensive web and mobile application designed to enhance community resilience and response during flooding disasters. This app was created during a hackathon and integrates advanced mapping, real-time reporting, and educational resources to address the growing issue of flooding, especially in regions like Kitchener-Waterloo.
+
+
+![FloodLink Diagram](assets/images/screenshot.png)
 
 ---
 
